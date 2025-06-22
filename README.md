@@ -24,7 +24,7 @@ A feature-rich Discord bot built with Discord.js v14, featuring command handling
    BOT_PREFIX=!
    PORT=3000
    ```
-4. Run the bot: `npm start` or `npm run dev` for development
+4. Run the bot: `node .` or `npm start` or `npm run dev` for development
 
 ## Commands
 
