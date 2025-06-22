@@ -67,6 +67,7 @@ A feature-rich Discord bot built with Discord.js v14, featuring command handling
 
 ## Notes:
 - This project may not work properly on platforms like Replit or Glitch. Consider using more reliable hosting services such as Render or Railway.
+- Forking this repository is recommended to ensure you receive the latest updates, including patches, new features, and ongoing improvements.
 
 ## Contributing
 
