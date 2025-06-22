@@ -37,7 +37,6 @@ A feature-rich Discord bot built with Discord.js v14, featuring command handling
 
 ```
 ├── index.js                 # Main bot file
-├── src/
 │   ├── handlers/
 │   │   └── handler.js       # Command and event loader
 │   ├── commands/
@@ -51,11 +50,11 @@ A feature-rich Discord bot built with Discord.js v14, featuring command handling
 │       ├── ready.js
 │       ├── interactionCreate.js
 │       ├── messageCreate.js
-│       ├── guildCreate.js
-│       └── guildDelete.js
+│       ├── guildCreate.js                     # Feel free to delete it
+│       └── guildDelete.js                     # Feel free to delete it       
 ├── package.json
 ├── .env
-└── README.md
+└── README.md                 # Feel free to delete it
 ```
 
 ## API Endpoints
